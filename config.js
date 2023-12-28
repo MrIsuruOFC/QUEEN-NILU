@@ -53,9 +53,9 @@ global.LANG = 'EN' // Language (EN-  TO english  ,  SI- TO sinhala )
 
 global.PREFIX = '.' // Bot Prefix
 
-global.CAPTION = 'ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Qᴜᴇᴇɴ ɴɪʟᴜ-ᴍᴅ' // Caption
+global.CAPTION = 'ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ɴɪʟᴜ-ᴍᴅ' // Caption
 
-global.ALIVELOGO = 'https://telegra.ph/file/1e63f0ee90304a12767c7.jpg' // Set Alive Logo link 
+global.ALIVELOGO = 'https://i.ibb.co/2Zyg4dX/20231228-195725.jpg' // Set Alive Logo link 
 
 global.ALIVE_MESSAGE = '' // Set Alive Message
 

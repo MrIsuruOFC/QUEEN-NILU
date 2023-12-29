@@ -76,7 +76,7 @@ global.GROUP_LINK = 'https://chat.whatsapp.com/Ko2HfqBt5mjEsmV9fY7Bsq' // ur gro
 
 /* 18 + Download Settings */
 
-global.SEX_DL = 'false' // 18 + video dl
+global.SEX_DL = 'true' // 18 + video dl
 
 /* AUTO REPLY SETTINGS */
 
@@ -89,6 +89,6 @@ global.VOICE_REPLY = true
 
 /* V card */
 
-global.ytname = "YT: janithsadanuwan" //ur yt chanel name
-global.socialm = "GitHub: janithsadanuwan" //ur github or insta name
-global.location = "Srilanka, colombo" //ur location
+global.ytname = "YT: doom_music_00" //ur yt chanel name
+global.socialm = "GitHub: MrIsuruOFC" //ur github or insta name
+global.location = "Srilanka, galle" //ur location
